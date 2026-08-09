@@ -33,7 +33,9 @@ A compact statistics lab that generates **5,000 synthetic financial transactions
 ## Run
 
 ```bash
-pip install pandas numpy
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
 python checkpoint.py
 ```
 
