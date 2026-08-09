@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420">
+  <rect width="1280" height="420" rx="28" fill="#f7f8f5"/>
+  <g fill="none" stroke="#d9ded4" stroke-width="1"><path d="M80 80H1200"/><path d="M80 340H1200"/><path d="M80 80V340"/><path d="M1200 80V340"/></g>
+  <text x="96" y="132" fill="#697268" font-family="Arial,sans-serif" font-size="18" letter-spacing="4">STATISTICS LAB</text>
+  <text x="96" y="190" fill="#182019" font-family="Arial,sans-serif" font-size="48" font-weight="700">Sampling Methods</text>
+  <text x="96" y="226" fill="#697268" font-family="Arial,sans-serif" font-size="21">5,000 synthetic financial transactions · 8 sampling strategies</text>
+  <g transform="translate(770 125)">
+    <g fill="#dfe5dc"><circle cx="0" cy="0" r="7"/><circle cx="42" cy="0" r="7"/><circle cx="84" cy="0" r="7"/><circle cx="126" cy="0" r="7"/><circle cx="168" cy="0" r="7"/><circle cx="210" cy="0" r="7"/><circle cx="252" cy="0" r="7"/><circle cx="294" cy="0" r="7"/><circle cx="336" cy="0" r="7"/></g>
+    <g fill="#a6e22e"><circle cx="42" cy="58" r="10"/><circle cx="126" cy="58" r="10"/><circle cx="210" cy="58" r="10"/><circle cx="294" cy="58" r="10"/></g>
+    <path d="M42 96H294" stroke="#182019" stroke-width="2" stroke-dasharray="7 8"/>
+    <rect x="64" y="126" width="210" height="72" rx="14" fill="#fff" stroke="#cfd6ca"/>
+    <text x="169" y="158" text-anchor="middle" fill="#182019" font-family="Arial,sans-serif" font-size="15" font-weight="700">STRATIFIED SAMPLE</text>
+    <text x="169" y="181" text-anchor="middle" fill="#697268" font-family="Arial,sans-serif" font-size="13">balanced representation</text>
+  </g>
+</svg>
